@@ -6,10 +6,10 @@ export default function YesPage() {
         alt="Minion with heart"
         className="w-100 mb-6"
       />
-      <h1 className="text-5xl font-bold mb-6">
+      <h1 className="text-5xl font-bold mb-6 text-white-700">
         YAY!!! 💖
       </h1>
-      <p className="text-xl max-w-md">
+      <p className="text-xl max-w-md text-white-700">
         Me emociona muchísimo ser tu novio y cada día estoy más adicto y más enamorado de ti. Te amo muchísimo y ojalá podamos celebrar bien el valentines day cuando llegues a Europa. 
         <br></br><br></br>
         Te amoooooo ❤️
